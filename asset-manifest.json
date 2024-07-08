@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TuneStream/static/css/main.0f64b351.css",
+    "main.js": "/TuneStream/static/js/main.888e682b.js",
+    "static/js/453.08943cab.chunk.js": "/TuneStream/static/js/453.08943cab.chunk.js",
+    "index.html": "/TuneStream/index.html",
+    "main.0f64b351.css.map": "/TuneStream/static/css/main.0f64b351.css.map",
+    "main.888e682b.js.map": "/TuneStream/static/js/main.888e682b.js.map",
+    "453.08943cab.chunk.js.map": "/TuneStream/static/js/453.08943cab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f64b351.css",
+    "static/js/main.888e682b.js"
+  ]
+}
